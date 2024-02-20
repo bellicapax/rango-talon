@@ -3,7 +3,7 @@ tag: browser
 tag(): user.rango_direct_clicking
 
 # Click
-click <user.rango_target>:
+(serf|surf) <user.rango_target>:
   user.rango_command_with_target("clickElement", rango_target)
 
 # Focus

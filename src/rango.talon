@@ -1,6 +1,5 @@
 tag: browser
 -
-tag(): user.rango_direct_clicking
 
 # Click
 (serf|surf) <user.rango_target>:
